@@ -14,5 +14,5 @@ if __name__ == "__main__" :
     IDNClient.start()
     print("Checking Log Channel ...")
     check_logs()
-    print("Bot is active Now! Join @IDNCoderX")
+    print("Bot is active Now! Join @anujeditbyak")
     idle()
