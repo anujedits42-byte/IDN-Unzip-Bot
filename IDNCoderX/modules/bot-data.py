@@ -52,11 +52,11 @@ class Buttons:
 
 class Messages:
     START_TEXT = """
-Hi **{}**, I'm **IDNCoderX Unzipper Bot** 😇!
+Hi **{}**, I'm **Ak Unzipper Bot** 😇!
 
 `I can extract archives like zip, rar, tar etc.`
 
-**Made with ❤️ by @IDNCoder**
+**Made with ❤️ by @Anujedits76**
     """
 
     HELP_TXT = """
@@ -72,12 +72,12 @@ Hi **{}**, I'm **IDNCoderX Unzipper Bot** 😇!
     """
 
     ABOUT_TXT = """
-**About IDNCoderX Unzip Bot,**
+**About Ak Unzip Bot,**
 ✘ **Language:** [Python](https://www.python.org/)
 ✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
-✘ **Source Code:** [IDN-C-X/IDN-Unzip-Bot](https://github.com/IDN-C-X/IDN-UnzipBot)
-✘ **Developer:** [zYxDevs](https://github.com/zYxDevs)
-**Made with ❤️ by @IDNCoder**
+✘ **Source Code:** [Anuj](https://t.me/anujedits76)
+✘ **Developer:** [Anuj](https://t.me/anujedits76)
+**Made with ❤️ by @anujedits76**
     """
 
     LOG_TXT = """
@@ -111,7 +111,7 @@ Hi **{}**, I'm **IDNCoderX Unzipper Bot** 😇!
     ERROR_TXT = """
 **Error Happend 😕!**
 **ERROR:** {}
-**Please report this at @IDNCoderX if you think this is a serious error**
+**Please report this at @anujedits76 if you think this is a serious error**
     """
 
     CANCELLED_TXT = """
